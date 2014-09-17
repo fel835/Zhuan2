@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://121.199.30.36/IPA/fendouzhe.ipa</string>
+					<string>http://182.92.216.135/IPA/wamei.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.oinary.fendouzhe</string>
+				<string>com.zdytp.wamei</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>奋斗者</string>
+				<string>挖煤</string>
 			</dict>
 		</dict>
 	</array>

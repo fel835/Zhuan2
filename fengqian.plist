@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://121.199.30.36/IPA/fendouzhe.ipa</string>
+					<string>http://120.24.54.86/IPA/fengqian.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.oinary.fendouzhe</string>
+				<string>com.xsap.fengqian</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>奋斗者</string>
+				<string>疯钱</string>
 			</dict>
 		</dict>
 	</array>
