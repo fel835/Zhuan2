@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://120.24.72.45/IPA/huishenghuo.ipa</string>
+					<string>http://120.24.70.233/IPA/yuzhuan.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.xiaoshi.huishenghuo</string>
+				<string>com.xiaomyuu.yuzhuan</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>惠生活</string>
+				<string>鱼赚</string>
 			</dict>
 		</dict>
 	</array>
